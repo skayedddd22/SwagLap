@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T16:26:56 GST" name="Default suite" finished-at="2024-02-26T16:26:58 GST" duration-ms="2835">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T16:26:56 GST" name="Default test" finished-at="2024-02-26T16:26:58 GST" duration-ms="2835">
+      <class name="swaglap.TestSwagLap">
+        <test-method is-config="true" signature="MySetUp()[pri:0, instance:swaglap.TestSwagLap@62e70ea3]" started-at="2024-02-26T16:26:56 GST" name="MySetUp" finished-at="2024-02-26T16:26:57 GST" duration-ms="1977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetUp -->
+        <test-method signature="MyFirstSetUp()[pri:1, instance:swaglap.TestSwagLap@62e70ea3]" started-at="2024-02-26T16:26:58 GST" name="MyFirstSetUp" finished-at="2024-02-26T16:26:58 GST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstSetUp -->
+        <test-method signature="AddAllItemsToCart()[pri:2, instance:swaglap.TestSwagLap@62e70ea3]" started-at="2024-02-26T16:26:58 GST" name="AddAllItemsToCart" finished-at="2024-02-26T16:26:58 GST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItemsToCart -->
+        <test-method is-config="true" signature="AfterSetUp()[pri:0, instance:swaglap.TestSwagLap@62e70ea3]" started-at="2024-02-26T16:26:58 GST" name="AfterSetUp" finished-at="2024-02-26T16:26:58 GST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSetUp -->
+      </class> <!-- swaglap.TestSwagLap -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
